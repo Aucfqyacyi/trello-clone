@@ -1,0 +1,11 @@
+.rs-calendar-table-cell-content{
+    height: 200px !important;
+}
+
+.calender-cell[aria-selected="true"] div{
+    overflow: visible !important;
+}
+
+.calender-cell[aria-selected="true"]{
+    overflow: visible!important;
+}
